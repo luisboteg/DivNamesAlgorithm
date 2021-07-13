@@ -1,5 +1,7 @@
 # DivNamesAlgorithm
 
 
+Python algorithm for split Spanish names from string to Array
 
-Hecho por Luis Bote Henrández y Luis Bote Gallardo
+
+Created by Luis Bote Henrández and Luis Bote Gallardo
